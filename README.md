@@ -1,5 +1,4 @@
 # GDSC---Data-Analysis-project
-Full Data Analysis Project For Data Analysis Using Python + SQL + Power BI + Power Query
 Car Info Data analysis using Python + SQL + Power BI + Power Query
 
 # Table of Contents
